@@ -11,6 +11,7 @@
 		DE2BDAF62666C195007B7123 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2BDAF52666C195007B7123 /* ContentView.swift */; };
 		DE2BDAF82666C198007B7123 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2BDAF72666C198007B7123 /* Assets.xcassets */; };
 		DE2BDAFB2666C198007B7123 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2BDAFA2666C198007B7123 /* Preview Assets.xcassets */; };
+		DE2BDB042666C2D3007B7123 /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2BDB032666C2D3007B7123 /* ColorCircle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DE2BDAF72666C198007B7123 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE2BDAFA2666C198007B7123 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE2BDAFC2666C198007B7123 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE2BDB032666C2D3007B7123 /* ColorCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				DE2BDAF32666C195007B7123 /* TrafficLightApp.swift */,
 				DE2BDAF52666C195007B7123 /* ContentView.swift */,
+				DE2BDB032666C2D3007B7123 /* ColorCircle.swift */,
 				DE2BDAF72666C198007B7123 /* Assets.xcassets */,
 				DE2BDAFC2666C198007B7123 /* Info.plist */,
 				DE2BDAF92666C198007B7123 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				DE2BDAF62666C195007B7123 /* ContentView.swift in Sources */,
 				DE2BDAF42666C195007B7123 /* TrafficLightApp.swift in Sources */,
+				DE2BDB042666C2D3007B7123 /* ColorCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
